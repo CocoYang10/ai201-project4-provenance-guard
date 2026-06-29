@@ -219,3 +219,9 @@ The implementation diverged from a more complex production plan by using a JSON 
 AI helped generate the Flask endpoint skeleton and connect the submit, log, and appeal routes.
 
 AI helped design the scoring thresholds and README wording. I reviewed and edited the generated code to match the assignment requirements.
+
+## Walkthrough Video
+
+A short walkthrough video showing the backend API, `/submit`, `/log`, and `/appeal` workflow is available here:
+
+[Watch the walkthrough video](https://drive.google.com/file/d/1WnKVaJBoaLH34fZWOMBkM3f2xoyn06M3/view?usp=sharing)
